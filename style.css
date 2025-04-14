@@ -10,7 +10,7 @@
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.1);
   --surface-color-hover: rgba(255, 255, 255, 0.02);
-  --switch-bg-url: url(./moon-star.svg);
+  --switch-bg-url: url(./assets/moon-star.svg);
 }
 
 .light {
@@ -18,8 +18,7 @@
   --bg-url: url(./assets/bg-light.png);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.05);
-  --switch-bg-url: url(./sun.svg);
-  
+  --switch-bg-url: url(./assets/sun.svg);
 }
 
 .light #social-links a:hover {
